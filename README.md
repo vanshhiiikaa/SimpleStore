@@ -1,6 +1,6 @@
 🛒 SimpleStoreSQL
 
-A SQL-based Store Management and Data Analysis Project designed to practice database creation, data manipulation, and analytical SQL queries.
+A SQL-based Store Management and Data Analysis Project designed to practice database creation, data manipulation, problem solving and analytical SQL queries.
 
 📌 Project Overview
 
