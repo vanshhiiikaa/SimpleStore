@@ -56,7 +56,7 @@ Execute the SQL script.
 Run the queries individually to explore the results.
 👩‍💻 Author
 
-Vanshhiiikaa
+Vanshika
 
 GitHub: @vanshhiiikaa
 
